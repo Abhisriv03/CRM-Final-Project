@@ -1,0 +1,16 @@
+SMAP
+index_jsp.java
+JSP
+*S JSP
+*F
++ 0 index.jsp
+index.jsp
++ 1 header.jsp
+header.jsp
+*L
+5,313:50
+1#1,85:363
+317#0,632:448
+949:1080,2
+950,129:1082
+*E
